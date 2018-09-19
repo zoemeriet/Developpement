@@ -16,3 +16,5 @@ un bout de code
 - chose
 
 Petit changement
+
+.md ===> fichier markdown
